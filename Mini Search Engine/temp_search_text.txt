@@ -1,0 +1,39 @@
+Kartikay Gupta
+♂phone+91 7456828827/envel⌢pekartikay633@gmail.com/envel⌢pekartikay.gupta2024@vitstudent.ac.in
+/githubgithub.com/kartikay633/linkedinLinkedIn LeetCode: Profile
+Education
+Vellore Institute of Technology, Vellore
+B.Tech in Computer Science and Engineering (Information Security) 2024–2028
+CGPA:9.19/10(Till Semester 4)
+New Doon Blossoms School, Dehradun
+Class XII (2023):93.6%
+Class X (2021):94.16%
+Experience
+Research Intern, IRDE–DRDO, Dehradun1 Jun 2026 – 29 Jun 2026
+•Studied thermal imaging systems and Non-Uniformity Correction (NUC) techniques for infrared
+sensors.
+•Explored calibration-based, scene-based and CNN-based NUC methods through technical literature.
+•Prepared a detailed technical report summarizing research findings and implementation approaches.
+•Gained exposure to infrared imaging pipelines and image enhancement concepts.
+Projects
+Amazon Clone (HTML, CSS, JavaScript)
+•Developed a responsive Amazon-inspired e-commerce website using HTML, CSS and JavaScript.
+•Implemented product listings, shopping cart interactions and responsive layouts.
+•Focused on clean UI design and modular JavaScript.
+YouTube Clone (HTML, CSS)
+•Built a responsive YouTube-inspired interface replicating the homepage layout.
+•Designed reusable UI components with responsive styling.
+Technical Skills
+•Languages:Java, C, C++, JavaScript
+•Frontend:HTML5, CSS3, React.js
+•Backend:Node.js, Express.js
+•Tools:Git, GitHub, VS Code
+•Core Subjects:Data Structures and Algorithms, Object-Oriented Programming, Web Program-
+ming
+•Areas of Interest:Full Stack Development, Software Engineering, Competitive Coding , Problem
+Solving
+Achievements
+•Solved200+Data Structures and Algorithms problems on LeetCode.
+•Achieved1500+LeetCode Contest Rating.
+•Maintained a9.19 CGPAtill Semester 4 at VIT.
+•Completed a one-month research internship at IRDE–DRDO.

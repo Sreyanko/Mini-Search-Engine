@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+SpeechRecognition
+pyaudio
+pytesseract
+PySide6
+python-docx
+PyPDF2
+numpy
